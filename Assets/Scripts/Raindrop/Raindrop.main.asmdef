@@ -1,0 +1,17 @@
+{
+    "name": "Raindrop.main",
+    "rootNamespace": "AT.Raindrop",
+    "references": [
+        "GUID:7d159c4f9624dfa4d9378ab2a2e0d257",
+        "GUID:e47b58b4506792347bd2aba7fc5e86b6"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
